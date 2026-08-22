@@ -23,16 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/project.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
+[GIF LINK](https://github.com/mdearafat/web102_prework/blob/main/assets/prework.gif)
 
 GIF created with Recordly.
-
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## License
 
